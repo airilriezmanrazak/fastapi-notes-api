@@ -1,3 +1,16 @@
+# for fastapi notes app
+# Virtual environment
+.venv/
+
+# API keys and secrets
+.env
+
+# Python compiled bytecode
+__pycache__/
+
+# notes database
+notes.db/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
